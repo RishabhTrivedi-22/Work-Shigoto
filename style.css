@@ -1,0 +1,23 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+  background-color: E7E7E7;
+}
+#main {
+  padding: 0.7rem 0.5rem;
+  position: relative;
+}
+
+#main header {
+  width: 100%;
+  /* height: 10px; */
+}
+#main #navbar {
+  width: 100%;
+  height: 3.5rem;
+  background-color: red;
+  border-radius: 30px;
+}
